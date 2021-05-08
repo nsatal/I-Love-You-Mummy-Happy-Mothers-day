@@ -5,7 +5,49 @@
     
 }
 body{
+  background-image: url("background.jpg");#title{
+    font-family: 'Pacifico', cursive; 
+    font-size: 50px;
+    color: black;
+    
+}
+body{
   background-image: url("background.jpg");
+  background-size: cover;
+}
+#Poem{
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px;
+  display: none;
+}
+
+#first{
+ width: 70%;
+    height:20%;
+}
+#fourth{
+ width: 70%;
+      height:20%;
+}
+#second{
+ 
+    width:10%;
+      height:auto;
+}
+#third{
+
+     width:10%;
+    height:auto;
+}
+#main{
+    height:70%;
+    width:70%;
+}
+#division
+{
+    height:70%;
+    width:70%;
+}
   background-size: cover;
 }
 #Poem{
